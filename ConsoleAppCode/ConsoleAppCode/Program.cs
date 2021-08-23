@@ -11,6 +11,7 @@ namespace ConsoleAppCode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.WriteLine("Welcome to Mindteck!");
         }
     }
 }
